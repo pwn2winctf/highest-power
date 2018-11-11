@@ -1,0 +1,5 @@
+/bytecode.h
+
+*.o
+*.dynasm.c
+__pycache__
